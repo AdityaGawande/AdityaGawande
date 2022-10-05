@@ -1,5 +1,7 @@
 Hi, I am Aditya Gawande
+
 I’m interested in Desktop Processor Architectures, Video Encoding Standards
+
 I’m currently learning C language
 
 <!---
