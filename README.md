@@ -1,6 +1,6 @@
 Hi, I am Aditya Gawande
 
-I’m interested in Desktop Processor Architectures, Video Encoding Standards
+I’m interested in Desktop Processor Architectures, Video Encoding.
 
 I’m currently learning C language
 
