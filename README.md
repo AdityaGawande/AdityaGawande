@@ -1,8 +1,5 @@
 Hi, I am Aditya Gawande
-
-I’m interested in Desktop Processor Architectures, Video Encoding.
-
-I’m currently learning C language
+Pre-final year EE-ICDT student at IITH
 
 <!---
 AdityaGawande/AdityaGawande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
